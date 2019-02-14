@@ -1,0 +1,59 @@
+[
+  {
+    "id": 0,
+    "name": "CS weekly",
+    "players": ["mcnutty", "martin", "reino"],
+    "passwords": ["qwe", "rtyrty", "zzzzzz"],
+    "central-board": ["ABBC", "ABCDE", "ABCAA", "F"],
+    "player-boards": [
+      {
+        "owner": "mcnutty",
+        "r1": "A",
+        "r2": "GG",
+        "r3": "DDD",
+        "r4": "GGGG",
+        "r5": "GGGGG",
+        "g1": "ABCDE",
+        "g2": "ABCDG",
+        "g3": "ABGCG",
+        "g4": "GGGAB",
+        "g5": "GGAGG"
+      },
+      {
+        "owner": "martin",
+        "r1": "B",
+        "r2": "GG",
+        "r3": "DDD",
+        "r4": "GGGG",
+        "r5": "GGGGG",
+        "g1": "ABCDE",
+        "g2": "ABCDG",
+        "g3": "GGABC",
+        "g4": "GGGAB",
+        "g5": "GGGAG"
+      },
+      {
+        "owner": "reino",
+        "r1": "C",
+        "r2": "GG",
+        "r3": "DDD",
+        "r4": "GGGG",
+        "r5": "GGGGG",
+        "g1": "ABCDE",
+        "g2": "ABCGD",
+        "g3": "AGGBC",
+        "g4": "GAGBG",
+        "g5": "GAGGG"
+      }
+    ],
+    "turn": "mcnutty"
+  },
+  {
+    "id": 1,
+    "name": "Another game",
+    "players": ["mcnutty", "jamie", "qualia"],
+    "passwords": ["qwe", "rtyrty", "zzzzzz"],
+    "central-boards": ["AAAA", "ACCBF"],
+    "player-boards": []
+  }
+]
